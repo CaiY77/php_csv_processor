@@ -1,7 +1,7 @@
 table { 
-	width: 750px; 
+	width: 70vw; 
 	border-collapse: collapse; 
-	margin:50px auto;
+	margin: 50px auto;
 	}
 
 
@@ -17,8 +17,15 @@ td, th {
 	}
 
 th { 
-    background: #26991c; 
+    background: #1899b9; 
     color: white; 
     font-weight: bold; 
     text-align: center;
     }
+
+.profit{
+	color: green;
+}
+.lost{
+	color: red;
+}
